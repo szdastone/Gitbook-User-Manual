@@ -53,3 +53,21 @@ disqus: false
 
 设置好了，再次编译，发布以后就可以正常看到Disqus了。
 
+
+
+##### books
+
+这个是国人写的一个综合插件，是"为了节约空间而写的一个插件"。
+
+[books插件地址](https://github.com/liushilive/gitbook-plugin-books)
+
+由于该地址有详细介绍，我这里不在赘述了。
+
+
+
+插件太多，只有选择自己合适的才是最好的。
+
+可参考如下网址的插件介绍。
+
+[Gitbook插件](http://gitbook.zhangjikai.com/plugins.html)
+
