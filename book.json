@@ -30,9 +30,18 @@
         "paperSize": "a4"
     },
     "plugins": [
-		"disqus"
+		"disqus",
+		"-lunr",
+		"-search",
+		"-highlight",
+		"-sharing",
+		"books"
 	],
 	"pluginsConfig": {
+		"books": {
+			"prism_themes": "prismjs/themes/prism-okaidia.css",
+			"github_url": "https://github.com/szdastone"
+		},
 		"theme-default": {
             "showLevel": true
         },
@@ -41,5 +50,6 @@
         }
 	},
     
-    "variables": {}
+    "variables": {
+	}
 }

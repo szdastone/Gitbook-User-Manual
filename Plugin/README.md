@@ -45,3 +45,29 @@ disqus: false
 # My Page without disqus
 ```
 
+这里再说下shortName，希望大家能明白。
+
+在[disqus官网](https://disqus.com/)先注册一个账号，或者通过google,twitter,facebook账号授权注册都行。注册完了在Account页面可以看到Username，这个Username就是需要填写的shortName。
+
+是不是这样就OK了呢？肯定不行，这是页面加载不上Disqus，为啥呢？需要你为你的网页增加一个site，登录后点击[Admin](https://disqus.com/admin/)，进入到管理页面。在管理页面选择[Installing Disqus](https://disqus.com/admin/install/)；然后在这个页面选择[Create a Site](https://disqus.com/admin/create/)，按要求填写后就可以管理你的Site了，在Site的设置页面填写好Website Name以及Website URL就可以了。注意的是Website URL是你访问的域名，比如<username>.github.io。
+
+设置好了，再次编译，发布以后就可以正常看到Disqus了。
+
+
+
+##### books
+
+这个是国人写的一个综合插件，是"为了节约空间而写的一个插件"。
+
+[books插件地址](https://github.com/liushilive/gitbook-plugin-books)
+
+由于该地址有详细介绍，我这里不在赘述了。
+
+
+
+插件太多，只有选择自己合适的才是最好的。
+
+可参考如下网址的插件介绍。
+
+[Gitbook插件](http://gitbook.zhangjikai.com/plugins.html)
+
