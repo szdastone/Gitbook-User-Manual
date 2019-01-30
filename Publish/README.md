@@ -53,5 +53,5 @@ c:\>book\git commit -m "add source"
 c:\>book\git push -u origin master
 ~~~
 
-好了。我们可以通过\<username\>.github.io/\<project>来访问本书籍了。
+好了。我们可以通过```<username>.github.io/<project>```来访问本书籍了。
 
